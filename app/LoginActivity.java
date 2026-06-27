@@ -1,3 +1,4 @@
+//sample code
 package com.example.safeher;
 
 import androidx.appcompat.app.AppCompatActivity;
